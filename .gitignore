@@ -1,4 +1,5 @@
 node_modules/**/*
+AppSpare.js
 .expo/*
 npm-debug.*
 *.jks
