@@ -4242,6 +4242,11 @@ react-native-web@^0.11.4:
     xmldoc "^0.4.0"
     yargs "^9.0.0"
 
+react-promise@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/react-promise/-/react-promise-3.0.2.tgz#1180f9e9d2e1a5362d005688c002366b4e9f2b67"
+  integrity sha512-Ez2aFel11b08H2HAWNnKf0GDV5ATGBmxK9UXHXxoKwCEoQey9manXDTwB2n3mhgOvMRzGH/YTHACdqQUjXf6Rw==
+
 react-proxy@^1.1.7:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/react-proxy/-/react-proxy-1.1.8.tgz#9dbfd9d927528c3aa9f444e4558c37830ab8c26a"

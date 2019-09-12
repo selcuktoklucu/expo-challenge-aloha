@@ -1,8 +1,10 @@
 node_modules/**/*
 AppSpare.js
 Calisiyor_flashy.js
+PersembeGunduz.js
 .expo/*
 npm-debug.*
+.gitignore
 *.jks
 *.p8
 *.p12
